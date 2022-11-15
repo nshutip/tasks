@@ -1,1 +1,22 @@
+{
+    "task1" : {
+        "name" : "APP 4035 Assignment",
+        "date" : "25/11/2022",
+        "priority" : "High", 
+        "Status" : "Completed"
+    },
 
+    "task2" : {
+        "name" : "APT 3090 group projet",
+        "date" : "25/12/2022",
+        "priority" : "Medium", 
+        "Status" : "In progress"
+    },
+
+    "task3" : {
+        "name" : "SS 2023 course registration",
+        "date" : "08/01/2023",
+        "priority" : "Low", 
+        "Status" : "Not started"
+    }
+}
